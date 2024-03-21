@@ -5,10 +5,12 @@ header{
 
 .cabecalho-imagem{
     width: 10%;
+    height: 10%;
 }
 
 .cabecalho{
     background-color: #3023CB;
     color: white;
     display: flex;
+    justify-content: space-around;
 }
