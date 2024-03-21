@@ -6,3 +6,8 @@ header{
 .cabecalho-imagem{
     width: 10%;
 }
+
+.cabecalho{
+    background-color: #3023CB;
+    color: white;
+}
