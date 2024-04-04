@@ -28,3 +28,27 @@ header{
     margin: 0;
     padding: 0%;
 }
+
+.imagem-ong {
+    width: 25%;
+}
+
+.corpo-ong{
+    background-image: linear-gradient(#3023CB, #737373);
+    color: white;
+    display: flex;
+
+   
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.ong-div-conteudo{
+    width: 35%;
+}
+
+.título-da-ong{
+    padding: 24px 0;
+}
